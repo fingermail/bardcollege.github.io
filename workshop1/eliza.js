@@ -62,6 +62,9 @@ var rules = {
     "What about ~y?",
     "You mentioned ~y",
   ],
+  "~*x Stop ~*y": [
+  	"You stop, Tristan",
+  ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
     "Why do you want ~y?",
